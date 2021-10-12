@@ -2,7 +2,7 @@ body {
   margin: 25px;
   background-image: linear-gradient(to right, rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url('../pictures/chalkboard.jpg');
   background-position: center,center;
-  width: 70%, cover;
+  background-size: 70%, cover;
   font-family: arial, sans-serif;
   font-size: 14px;
   font-color: black;
