@@ -14,6 +14,9 @@
 <html>
   <head>
     <script>function update() {
+  var randID = Math.floor(Math.random() * max);
+  cookie = "secret-num="+randID;
+  document.cookie = cookie;
   document.getElementById("comment").innerHTML = input.value;
 }
 </script>
