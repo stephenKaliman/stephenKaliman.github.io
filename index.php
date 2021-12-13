@@ -1,0 +1,13 @@
+<!doctype HTML>
+<html>
+	<head>
+		<title> Stephen Kelman </title>
+		<link rel="stylesheet" type="text/css" href="./style/global.css">
+		<link rel="stylesheet" type="text/css" href="./style/navbar.css">
+	</head>
+	<body>
+			<h1> Stephen Kelman <h1>
+			<h2> Computer Science @ UCLA </h2> 
+			<p> Hey there! I'm Stephen Kelman, and I'm currently a second-year CS major studying at UCLA! </p>
+	</body>
+</html>
